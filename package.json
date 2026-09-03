@@ -7,7 +7,11 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "keywords": ["nodejs", "docker", "deployment"],
+  "keywords": [
+    "nodejs",
+    "docker",
+    "deployment"
+  ],
   "author": "JohnUghiovhe",
   "license": "MIT",
   "dependencies": {
