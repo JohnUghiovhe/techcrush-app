@@ -4,10 +4,14 @@
   "description": "A simple Node.js application for Docker deployment",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node api.js && node app.js",
+    "dev": "node api.js && nodemon app.js"
   },
-  "keywords": ["nodejs", "docker", "deployment"],
+  "keywords": [
+    "nodejs",
+    "docker",
+    "deployment"
+  ],
   "author": "JohnUghiovhe",
   "license": "MIT",
   "dependencies": {
