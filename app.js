@@ -4,7 +4,7 @@ const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
   res.json({
-    message: 'Welcome to TechCrush App!',
+    message: 'Welcome to JohnUghiovhe App!',
     version: '1.0.0',
     status: 'running',
     timestamp: new Date().toISOString()
