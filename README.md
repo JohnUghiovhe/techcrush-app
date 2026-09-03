@@ -87,16 +87,16 @@ The app will be live at `http://YOUR_SERVER_IP:3000`.
 
 ### 1. Docker Image Build
 
-![Docker build](screenshots/Screenshot 1.png)
+![Docker build](screenshots/Screenshot%201.png)
 
 ### 2. Image on Docker Hub
 
-![Docker Hub](screenshots/Screenshot 2.png)
+![Docker Hub](screenshots/Screenshot%202.png)
 
 ### 3. Running Container
 
-![Running container](screenshots/Screenshot 3.png)
+![Running container](screenshots/Screenshot%203.png)
 
 ### 4. Live Application
 
-![Live application](screenshots/Screenshot 4.png)
+![Live application](screenshots/Screenshot%204.png)
